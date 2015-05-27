@@ -1,0 +1,23 @@
+body{background-color: black;}
+.spantext{font-size: 30px; color: white; text-align: center; }
+.div{display: inline-block; margin: 5%; color: violet;}
+.div table{border-bottom: thin; border-bottom-color: gray; width: 162px;}
+.tdwhite{line-height: 30px; color: white;}
+
+
+
+
+	.gradient{height: auto; width: auto; display: inline-block; margin: 3%;}
+	table .th{background-color: #474759; color: violet; line-height: 30px; text-align: center;}
+ table .tr{background-color: #BDBDD3; line-height: 30px; color: white;}
+ 
+ #imagep1, #imagep2, #imagep3, #imagep4, #imagep5 {width: 30px; height: 30px; float: right;}
+ #bt1, #bt2, #bt3, #bt4, #bt5 {border-radius: 5px; width: 40px; height: 30px; float: center; margin-left: 31px; background-color: white;}
+ #imagem1, #imagem2, #imagem3, #imagem4, #imagem5{width: 30px; height: 10px;}
+ 
+
+ #button{background-color: violet; color: white; font-size: 30px; border-radius: 7px; 
+ 	text-align: center;margin-left: 437px;
+ 	width: 370px;}
+ 	
+ 	.table{background-color: #BDBDD3; width: 175px;}
